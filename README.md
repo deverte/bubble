@@ -1,6 +1,6 @@
 # Bubble
 
-Additional keyboard layouts for mathematical and physical symbols.
+Additional keyboard layouts for mathematical and physical symbols (Microsoft Windows app).
 
 ![layout](./layout.png)
 
