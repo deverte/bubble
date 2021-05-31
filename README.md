@@ -34,7 +34,7 @@ scoop install bubble
 
 ### Second method — Direct download
 
-Also you can download a [package](https://github.com/deverte/bubble/releases) and unpack it via any ZIP archiver.
+Also you can download a [package](https://github.com/deverte/bubble/releases) and unpack it via any ZIP archiver (program is fully portable).
 
 ### How to add Bubble at system startup
 
